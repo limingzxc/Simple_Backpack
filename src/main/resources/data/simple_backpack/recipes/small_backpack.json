@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#$#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "$": {
+      "tag": "forge:chests/wooden"
+    }
+  },
+  "result": {
+    "item": "simple_backpack:small_backpack",
+    "count": 1
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "boson:item/big_backpack"
+    "layer0": "simple_backpack:item/big_backpack"
   }
 }
